@@ -1,0 +1,22 @@
+p{
+  font-family: Roboto, Arial;
+}
+body
+{
+  margin : 0;
+  padding : 0px;
+}
+.body
+{
+  
+  background-color: #181717;
+  padding-top : 130px;
+  padding-left: 66px;
+  overflow : scroll;
+}
+.side-body
+{
+  width : 100px;
+   
+
+}
